@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8yC4/3FESPURnh5wtbQ6m6CZf9vNCW2r9bk5GRS4kdcyBCYIVAkbOEWpmt99D0AgeP7uwrOnzg4tR5qICV7kLg==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\Socket 01\\Socket 01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eniac\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Eniac\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\Eniac\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\Eniac\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\Eniac\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\Eniac\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
